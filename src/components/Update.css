@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  h1{
+    width: 100%;
+    background-color: rgb(1, 16, 32);
+    color: aliceblue;
+    font-family: cursive;
+    text-align: center;
+    padding: 1rem 0rem;
+}
